@@ -1,0 +1,66 @@
+# Cinematica — Generative Engine Optimization Map
+
+> A cinema that screens the latest new movies and hosts frequent shows, offering audiences a regular entertainment destination for fresh cinematic experiences.
+
+---
+
+## Pages
+
+### Home
+https://cinematica-974a61bf.zappy5.app
+Discover your ultimate adult entertainment near me at Cinematica with new releases and frequent shows every night. Grab tickets now for an unforgettable big-screen experience.
+
+## Legal & Policy
+
+### Privacy Policy
+https://cinematica-974a61bf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cinematica-974a61bf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cinematica-974a61bf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://cinematica-974a61bf.zappy5.app
+- Endpoint: https://cinematica-974a61bf.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `preferred_date` (text)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Cinematica
+A cinema that screens the latest new movies and hosts frequent shows, offering audiences a regular entertainment destination for fresh cinematic experiences.
+
+## Target Audience
+- Film Buff Enthusiasts
+- Family Movie Night Planners
+- Date Night Couples
+
+## Industry
+Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://cinematica-974a61bf.zappy5.app/sitemap.xml
+- Robots: https://cinematica-974a61bf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://cinematica-974a61bf.zappy5.app/llms-full.txt
